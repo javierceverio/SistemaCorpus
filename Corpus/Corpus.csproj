@@ -1,0 +1,725 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6352E8C8-FFB1-4A90-BEC9-825E34547775}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Corpus</RootNamespace>
+    <AssemblyName>Corpus</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Proyectos VS 2017\Sistema Corpus\Instalador\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <UpdateUrl>\\OFICINA-PC\Actualizacion Sistema Corpus\</UpdateUrl>
+    <TargetCulture>es-AR</TargetCulture>
+    <ProductName>Sistema Corpus</ProductName>
+    <PublisherName>CreISys</PublisherName>
+    <MinimumRequiredVersion>1.0.0.8</MinimumRequiredVersion>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>19</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Corpues Icono.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4065BDA5F32AE4D52514270A3608AD2EAFAE78FC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Corpus_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="APagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="APagar.Designer.cs">
+      <DependentUpon>APagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autenticacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autenticacion.Designer.cs">
+      <DependentUpon>Autenticacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayuda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayuda.Designer.cs">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Backup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Backup.Designer.cs">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Balance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Balance.Designer.cs">
+      <DependentUpon>Balance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CambiarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarCliente.Designer.cs">
+      <DependentUpon>CambiarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cobros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cobros.Designer.cs">
+      <DependentUpon>Cobros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CorpusDataSet.cs">
+      <DependentUpon>CorpusDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CorpusDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CorpusDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DetallesEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesEmpleados.Designer.cs">
+      <DependentUpon>DetallesEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DetallesEmpleadosExternos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesEmpleadosExternos.Designer.cs">
+      <DependentUpon>DetallesEmpleadosExternos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleados.Designer.cs">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpleadosExternos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpleadosExternos.Designer.cs">
+      <DependentUpon>EmpleadosExternos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpleadosExternosTotalACobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpleadosExternosTotalACobrar.Designer.cs">
+      <DependentUpon>EmpleadosExternosTotalACobrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpleadosTotalACobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmpleadosTotalACobrar.Designer.cs">
+      <DependentUpon>EmpleadosTotalACobrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gastos.Designer.cs">
+      <DependentUpon>Gastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="Impuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impuestos.Designer.cs">
+      <DependentUpon>Impuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeACobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeACobrar.Designer.cs">
+      <DependentUpon>InformeACobrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeBalance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeBalance.Designer.cs">
+      <DependentUpon>InformeBalance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeCobrosEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeCobrosEmpleados.Designer.cs">
+      <DependentUpon>InformeCobrosEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeCobrosEmpleadosExternos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeCobrosEmpleadosExternos.Designer.cs">
+      <DependentUpon>InformeCobrosEmpleadosExternos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeCorpus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeCorpus.Designer.cs">
+      <DependentUpon>InformeCorpus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeEmpleado.Designer.cs">
+      <DependentUpon>InformeEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformeEmpleadoExterno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformeEmpleadoExterno.Designer.cs">
+      <DependentUpon>InformeEmpleadoExterno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InformePagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InformePagos.Designer.cs">
+      <DependentUpon>InformePagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InicioParaUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioParaUsuarios.Designer.cs">
+      <DependentUpon>InicioParaUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoCobroOtro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoCobroOtro.Designer.cs">
+      <DependentUpon>NuevoCobroOtro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoEmpleado.Designer.cs">
+      <DependentUpon>NuevoEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Percibido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Percibido.Designer.cs">
+      <DependentUpon>Percibido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresupuestosComenzaronCobros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresupuestosComenzaronCobros.Designer.cs">
+      <DependentUpon>PresupuestosComenzaronCobros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios.Designer.cs">
+      <DependentUpon>Servicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarPass.Designer.cs">
+      <DependentUpon>ModificarPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoCliente.Designer.cs">
+      <DependentUpon>NuevoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoCobro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoCobro.Designer.cs">
+      <DependentUpon>NuevoCobro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoEmpleadoExterno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoEmpleadoExterno.Designer.cs">
+      <DependentUpon>NuevoEmpleadoExterno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoGasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoGasto.Designer.cs">
+      <DependentUpon>NuevoGasto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoServicio.Designer.cs">
+      <DependentUpon>NuevoServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoOtro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoOtro.Designer.cs">
+      <DependentUpon>NuevoOtro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoTrabajo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoTrabajo.Designer.cs">
+      <DependentUpon>NuevoTrabajo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoUsuario.Designer.cs">
+      <DependentUpon>NuevoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Otros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Otros.Designer.cs">
+      <DependentUpon>Otros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pagos.Designer.cs">
+      <DependentUpon>Pagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presupuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presupuestos.Designer.cs">
+      <DependentUpon>Presupuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Trabajos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trabajos.Designer.cs">
+      <DependentUpon>Trabajos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="APagar.resx">
+      <DependentUpon>APagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Autenticacion.resx">
+      <DependentUpon>Autenticacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayuda.resx">
+      <DependentUpon>Ayuda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup.resx">
+      <DependentUpon>Backup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Balance.resx">
+      <DependentUpon>Balance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambiarCliente.resx">
+      <DependentUpon>CambiarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cobros.resx">
+      <DependentUpon>Cobros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesEmpleados.resx">
+      <DependentUpon>DetallesEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesEmpleadosExternos.resx">
+      <DependentUpon>DetallesEmpleadosExternos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleados.resx">
+      <DependentUpon>Empleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpleadosExternos.resx">
+      <DependentUpon>EmpleadosExternos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpleadosExternosTotalACobrar.resx">
+      <DependentUpon>EmpleadosExternosTotalACobrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpleadosTotalACobrar.resx">
+      <DependentUpon>EmpleadosTotalACobrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gastos.resx">
+      <DependentUpon>Gastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impuestos.resx">
+      <DependentUpon>Impuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeACobrar.rdlc" />
+    <EmbeddedResource Include="InformeACobrar.resx">
+      <DependentUpon>InformeACobrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeBalance.rdlc" />
+    <EmbeddedResource Include="InformeBalance.resx">
+      <DependentUpon>InformeBalance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeCobrosEmpleados.rdlc" />
+    <EmbeddedResource Include="InformeCobrosEmpleados.resx">
+      <DependentUpon>InformeCobrosEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeCobrosEmpleadosExternos.rdlc" />
+    <EmbeddedResource Include="InformeCobrosEmpleadosExternos.resx">
+      <DependentUpon>InformeCobrosEmpleadosExternos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeCorpus.rdlc" />
+    <EmbeddedResource Include="InformeCorpus.resx">
+      <DependentUpon>InformeCorpus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeEmpleado.rdlc" />
+    <EmbeddedResource Include="InformeEmpleado.resx">
+      <DependentUpon>InformeEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformeEmpleadoExterno.rdlc" />
+    <EmbeddedResource Include="InformeEmpleadoExterno.resx">
+      <DependentUpon>InformeEmpleadoExterno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InformePagos.rdlc" />
+    <EmbeddedResource Include="InformePagos.resx">
+      <DependentUpon>InformePagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioParaUsuarios.resx">
+      <DependentUpon>InicioParaUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoCobroOtro.resx">
+      <DependentUpon>NuevoCobroOtro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoEmpleado.resx">
+      <DependentUpon>NuevoEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Percibido.resx">
+      <DependentUpon>Percibido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresupuestosComenzaronCobros.resx">
+      <DependentUpon>PresupuestosComenzaronCobros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios.resx">
+      <DependentUpon>Servicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarPass.resx">
+      <DependentUpon>ModificarPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoCliente.resx">
+      <DependentUpon>NuevoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoCobro.resx">
+      <DependentUpon>NuevoCobro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoEmpleadoExterno.resx">
+      <DependentUpon>NuevoEmpleadoExterno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoGasto.resx">
+      <DependentUpon>NuevoGasto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoServicio.resx">
+      <DependentUpon>NuevoServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoOtro.resx">
+      <DependentUpon>NuevoOtro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoTrabajo.resx">
+      <DependentUpon>NuevoTrabajo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoUsuario.resx">
+      <DependentUpon>NuevoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Otros.resx">
+      <DependentUpon>Otros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pagos.resx">
+      <DependentUpon>Pagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presupuestos.resx">
+      <DependentUpon>Presupuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Trabajos.resx">
+      <DependentUpon>Trabajos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="CorpusDataSet.xsc">
+      <DependentUpon>CorpusDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CorpusDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CorpusDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CorpusDataSet.xss">
+      <DependentUpon>CorpusDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Corpus_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ingresar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ingresar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Salir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Planos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Planos2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Empleados.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Usuarios.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pagos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cobros.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Balanza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ayuda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corpus Logo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corpus Logo Chico.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Corpus Logo Mas Chico.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Borrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Generar Backup.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Backup Restaurar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guardar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Asignar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cambiar-usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\otros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Externos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Impuestos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Presupuesto.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actualizar Trabajo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pagar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dinero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Corpues Icono.ico" />
+    <None Include="Resources\Detalles.jpg" />
+    <None Include="Resources\INFORMACION.png" />
+    <None Include="Resources\Letra D.jpg" />
+    <None Include="Resources\Pass.jpg" />
+    <None Include="Resources\Ver Pass.png" />
+    <None Include="Resources\Dinero.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Servicios.jpg" />
+    <None Include="Resources\Calcular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

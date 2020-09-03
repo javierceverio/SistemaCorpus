@@ -1,0 +1,573 @@
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Corpus.exe.config
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Corpus.exe
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Corpus.pdb
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Autenticacion.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Ayuda.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Backup.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Clientes.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Empleados.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Inicio.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.ModificarPass.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoCliente.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoEmpleado.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoUsuario.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Properties.Resources.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Usuarios.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.csproj.GenerateResource.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.csproj.CoreCompileInputs.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.exe
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.pdb
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Corpus.exe.config
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Corpus.exe
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Corpus.pdb
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Autenticacion.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Ayuda.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Backup.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Clientes.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Empleados.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Inicio.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.ModificarPass.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoCliente.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoEmpleado.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoUsuario.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Properties.Resources.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Usuarios.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.csproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.exe
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.pdb
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.EmpleadosExternos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoEmpleadoExterno.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Gastos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoGasto.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoOtro.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Otros.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoTrabajo.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Trabajos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.CambiarCliente.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.CambiarCliente.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.EmpleadosExternos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Gastos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoEmpleadoExterno.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoGasto.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoOtro.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoTrabajo.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Otros.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Trabajos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Presupuestos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Cobros.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoCobro.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.APagar.resources
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Corpus.exe.manifest
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Corpus.application
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.exe.manifest
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.application
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Pagos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Balance.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Corpus.exe.manifest
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Corpus.application
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.APagar.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Balance.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Cobros.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoCobro.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Pagos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Presupuestos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.exe.manifest
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.application
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Servicios.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.NuevoServicio.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Servicios.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.NuevoServicio.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.Impuestos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.Impuestos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.DetallesEmpleados.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.DetallesEmpleados.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.DetallesEmpleadosExternos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InformeBalance.resources
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\EnvDTE.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\stdole.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\Microsoft.MSXML.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.DetallesEmpleadosExternos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.InformeBalance.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\RdlCompile.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\RdlCompile.compiled
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.csproj.CopyComplete
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.EmpleadosExternosTotalACobrar.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.EmpleadosTotalACobrar.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.InformeEmpleadoExterno.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.csprojAssemblyReference.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.InformeEmpleado.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.EmpleadosExternosTotalACobrar.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.EmpleadosTotalACobrar.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InformeEmpleado.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InformeEmpleadoExterno.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\EnvDTE.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\stdole.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\Microsoft.MSXML.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.csproj.CopyComplete
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.InformeCobrosEmpleados.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.InformeCobrosEmpleadosExternos.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Release\Corpus.InformeCorpus.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InformeCobrosEmpleados.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InformeCobrosEmpleadosExternos.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InformeCorpus.resources
+C:\Proyectos Visual Studio\Corpus\Corpus\obj\Release\Corpus.InicioParaUsuarios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.exe.config
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.exe.manifest
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.application
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.exe
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.pdb
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\EnvDTE.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\stdole.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.MSXML.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.APagar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Autenticacion.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Ayuda.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Backup.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Balance.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.CambiarCliente.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Clientes.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Cobros.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.DetallesEmpleados.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.DetallesEmpleadosExternos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Empleados.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.EmpleadosExternos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.EmpleadosExternosTotalACobrar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.EmpleadosTotalACobrar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Gastos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Impuestos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeBalance.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeCobrosEmpleados.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeCobrosEmpleadosExternos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeCorpus.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeEmpleado.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeEmpleadoExterno.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InicioParaUsuarios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoEmpleado.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Servicios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Inicio.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.ModificarPass.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoCliente.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoCobro.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoEmpleadoExterno.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoGasto.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoServicio.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoOtro.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoTrabajo.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoUsuario.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Otros.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Pagos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Presupuestos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Properties.Resources.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Trabajos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Usuarios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csproj.GenerateResource.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\RdlCompile.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\RdlCompile.compiled
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csproj.CoreCompileInputs.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.exe.manifest
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.application
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csproj.CopyComplete
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.exe
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.pdb
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Corpus.exe.config
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Corpus.exe.manifest
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Corpus.application
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Corpus.exe
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Corpus.pdb
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\EnvDTE.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\stdole.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\Microsoft.MSXML.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.APagar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Autenticacion.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Ayuda.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Backup.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Balance.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.CambiarCliente.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Clientes.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Cobros.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.DetallesEmpleados.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.DetallesEmpleadosExternos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Empleados.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.EmpleadosExternos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.EmpleadosExternosTotalACobrar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.EmpleadosTotalACobrar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Gastos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Impuestos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InformeBalance.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InformeCobrosEmpleados.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InformeCobrosEmpleadosExternos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InformeCorpus.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InformeEmpleado.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InformeEmpleadoExterno.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.InicioParaUsuarios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoEmpleado.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Servicios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Inicio.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.ModificarPass.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoCliente.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoCobro.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoEmpleadoExterno.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoGasto.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoServicio.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoOtro.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoTrabajo.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.NuevoUsuario.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Otros.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Pagos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Presupuestos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Properties.Resources.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Trabajos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.Usuarios.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.csproj.GenerateResource.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\RdlCompile.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\RdlCompile.compiled
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.csproj.CoreCompileInputs.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.exe.manifest
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.application
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.csproj.CopyComplete
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.exe
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.pdb
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.TrustInfo.xml
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final 2\Corpus\obj\Release\Corpus.csprojAssemblyReference.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.TrustInfo.xml
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x64\msvcr120.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x86\msvcr120.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.exe.config
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.exe.manifest
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.application
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.exe
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Corpus.pdb
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\EnvDTE.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\stdole.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\Microsoft.MSXML.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csprojAssemblyReference.cache
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.APagar.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Autenticacion.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Ayuda.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Backup.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Balance.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.CambiarCliente.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Clientes.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Cobros.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.DetallesEmpleados.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.DetallesEmpleadosExternos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Empleados.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.EmpleadosExternos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.EmpleadosExternosTotalACobrar.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.EmpleadosTotalACobrar.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Gastos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Impuestos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeBalance.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeCobrosEmpleados.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeCobrosEmpleadosExternos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeCorpus.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeEmpleado.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeEmpleadoExterno.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InicioParaUsuarios.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoEmpleado.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Servicios.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Inicio.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.ModificarPass.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoCliente.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoCobro.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoEmpleadoExterno.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoGasto.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoServicio.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoOtro.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoTrabajo.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoUsuario.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Otros.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Pagos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Presupuestos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Properties.Resources.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Trabajos.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Usuarios.resources
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csproj.GenerateResource.cache
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csproj.CoreCompileInputs.cache
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.TrustInfo.xml
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.exe.manifest
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.application
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csproj.CopyComplete
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.exe
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.pdb
+C:\Proyectos Visual Studio\Sistema Corpus\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformePagos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformePagos.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.csprojAssemblyReference.cache
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.NuevoCobroOtro.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.Percibido.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.InformeACobrar.resources
+C:\Proyectos VS 2017\Sistema Corpus\Corpus - Version Final\Corpus\obj\Release\Corpus.PresupuestosComenzaronCobros.resources

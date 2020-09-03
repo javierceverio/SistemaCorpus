@@ -1,0 +1,34 @@
+C:\Users\Oficina\source\repos\Corpus\Corpus\bin\Debug\Corpus.exe.config
+C:\Users\Oficina\source\repos\Corpus\Corpus\bin\Debug\Corpus.exe
+C:\Users\Oficina\source\repos\Corpus\Corpus\bin\Debug\Corpus.pdb
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.csprojAssemblyReference.cache
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.Autenticacion.resources
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.Properties.Resources.resources
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.csproj.GenerateResource.cache
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.csproj.CoreCompileInputs.cache
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.exe
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.pdb
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.Inicio.resources
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.Usuarios.resources
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.Ayuda.resources
+C:\Users\Oficina\source\repos\Corpus\Corpus\obj\Debug\Corpus.Backup.resources
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Debug\Corpus.exe.config
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Debug\Corpus.exe
+C:\Proyectos VS 2017\Corpus\Corpus\bin\Debug\Corpus.pdb
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.csprojAssemblyReference.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Autenticacion.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Ayuda.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Backup.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Inicio.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Properties.Resources.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Usuarios.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.csproj.GenerateResource.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.csproj.CoreCompileInputs.cache
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.exe
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.pdb
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.NuevoUsuario.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.ModificarPass.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Clientes.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.Empleados.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.NuevoCliente.resources
+C:\Proyectos VS 2017\Corpus\Corpus\obj\Debug\Corpus.NuevoEmpleado.resources
